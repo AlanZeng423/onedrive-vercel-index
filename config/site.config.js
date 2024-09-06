@@ -56,7 +56,7 @@ module.exports = {
       link: 'https://github.com/alanzeng423/',
     },
     {
-      name: 'Chrome',
+      name: 'house',
       link: 'https://alanzeng.com'
     }
   ],
